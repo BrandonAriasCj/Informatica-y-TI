@@ -18,8 +18,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e8b0e6615366fc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicios basicos de ping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b855d36f453104a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ejercicios basicos de ping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Como funciona el comando ping.md",
+                "file": "Ejercicios basicos de ping.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Como funciona el comando ping.md",
+                "file": "Ejercicios basicos de ping.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Como funciona el comando ping.md"
+                "file": "Ejercicios basicos de ping.md"
               }
             }
           }
@@ -146,8 +171,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6d1f64a556b2183a",
+  "active": "9b855d36f453104a",
   "lastOpenFiles": [
+    "Ping multiple en windows.md",
+    "Ejercicios basicos de ping.md",
     "Como funciona el comando ping.md"
   ]
 }
