@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "560a295a942bd8e6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "comandos de git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ejercicios basicos de ping.md",
+                "file": "comandos de git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ejercicios basicos de ping.md",
+                "file": "comandos de git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ejercicios basicos de ping.md"
+                "file": "comandos de git.md"
               }
             }
           }
@@ -171,10 +183,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b855d36f453104a",
+  "active": "560a295a942bd8e6",
   "lastOpenFiles": [
-    "Ping multiple en windows.md",
+    "Como funciona el comando ping.md",
+    "comandos de git.md",
     "Ejercicios basicos de ping.md",
-    "Como funciona el comando ping.md"
+    "SELECT.md",
+    "Ping multiple en windows.md"
   ]
 }
