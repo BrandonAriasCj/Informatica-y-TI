@@ -121,6 +121,7 @@ Aquí tienes algunos comandos básicos de Git que son fundamentales para comenza
     ```bash
     git reset --hard HEAD^
     ```
+[[Eliminar el ultimo commit]] 
 
 Estos son solo algunos comandos básicos de Git para comenzar. Git es una herramienta poderosa con muchos más comandos y opciones. Es recomendable aprender más a medida que avances en tus proyectos y necesidades específicas. Puedes consultar la documentación oficial de Git o usar `git --help` para obtener más información sobre un comando específico.
 
